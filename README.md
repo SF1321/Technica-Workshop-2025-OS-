@@ -4,8 +4,8 @@ Open Sourcery Workshop: Intro to Open Source Development!
 ## INSTRUCTIONS:
 
 - Get in 4 groups
-- Download the documents based on group number
-- Follow directions in your specific documents
-- Commit to this repo
+- Make a branch and add something to it (One branch per group)
+- Make pull requests
+- Make final commit
 
 
